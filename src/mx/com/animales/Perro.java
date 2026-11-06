@@ -13,6 +13,6 @@ public class Perro extends Animal implements Movible{
     }
     @Override
     public void moverse(){
-        System.out.println(" | Mmovimiento : Corre");
+        System.out.println(" | Movimiento : Corre");
     }
 }
